@@ -11,7 +11,7 @@ namespace DatedComment
         public const string Name = "Dated Comment";
         public const string Description = @"Insert a C# comment into the editor that includes the current user name, and current date and time.";
         public const string Language = "en-US";
-        public const string Version = "1.0";
+        public const string Version = "1.1";
         public const string Author = "Tim WItort";
         public const string Tags = "";
     }
